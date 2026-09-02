@@ -125,8 +125,8 @@ I also learned about Python's `type()` and `id()` functions and got more practic
 
 If you would like to connect with me or see more of my projects:
 
-* 📧 **Email:** [your-email@example.com](mailto:ghogharivaidika@gmail.com)
-* 💼 **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/vaidika-ghoghari-2196a534a)
+* 📧 **Email:** ghogharivaidika@gmail.com
+* 💼 **LinkedIn:**www.linkedin.com/in/vaidika-ghoghari-2196a534a
 
 Replace the links above with your actual details.
 
