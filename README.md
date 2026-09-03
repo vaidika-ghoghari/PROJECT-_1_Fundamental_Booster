@@ -31,8 +31,8 @@ After taking the input, it displays:
 
 While making this project, I practiced:
 
-* `input()`
 * Variables
+* `input()`
 * `int()`
 * `float()`
 * `print()`
@@ -126,7 +126,7 @@ I also learned about Python's `type()` and `id()` functions and got more practic
 If you would like to connect with me or see more of my projects:
 
 * 📧 **Email:** ghogharivaidika@gmail.com
-* 💼 **LinkedIn:**www.linkedin.com/in/vaidika-ghoghari-2196a534a
+* 💼 **LinkedIn:** www.linkedin.com/in/vaidika-ghoghari-2196a534a
 
 Replace the links above with your actual details.
 
