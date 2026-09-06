@@ -88,7 +88,7 @@ I have also made an explanation video where I explain how this project works and
 
 👉 **[Watch the Project Explanation Video](YOUR_VIDEO_LINK_HERE)**
 
-Replace `YOUR_VIDEO_LINK_HERE` with your YouTube video link.
+
 
 ---
 
@@ -128,7 +128,7 @@ If you would like to connect with me or see more of my projects:
 * 📧 **Email:** ghogharivaidika@gmail.com
 * 💼 **LinkedIn:** www.linkedin.com/in/vaidika-ghoghari-2196a534a
 
-Replace the links above with your actual details.
+
 
 ---
 
