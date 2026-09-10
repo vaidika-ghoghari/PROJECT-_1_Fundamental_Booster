@@ -86,7 +86,7 @@ The actual program also displays the **data type** and **memory address** of eac
 
 I have also made an explanation video where I explain how this project works and the Python concepts used in it.
 
-👉 **[Watch the Project Explanation Video](G:\My Drive\recording\project1.mp4)**
+👉 **[Watch the Project Explanation Video]** G:\My Drive\recording\project1.mp4
 
 
 
