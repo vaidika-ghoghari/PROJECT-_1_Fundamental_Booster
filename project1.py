@@ -1,4 +1,4 @@
-print("\nWelcome to the Interactive Personal Data Collecter ! ")
+print("\nWelcome to the Interactive Personal Data Collector ! ")
 
 #take a name from user
 name=input("\nPlease enter your name : ")
